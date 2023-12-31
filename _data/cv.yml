@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dánnell Quesada Chacón
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th August 1989
     - name: Languages
-      value: English, German
+      value: Spanish, English, German
 
 - title: Education
   type: time_table
