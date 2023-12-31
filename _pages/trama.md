@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /tramilla/
 title: Tramilla
 nav: true
 nav_order: 4
