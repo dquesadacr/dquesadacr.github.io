@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor rerum naturalium
+      institution: Technische Universität Dresden, Dresden, Germany
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science, Hydro Science and Engineering
+      institution: Technische Universität Dresden, Dresden, Germany
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Licentiate, Civil Engineering
+      institution: Universidad de Costa Rica, San José, Costa Rica
+      year: 2014
       description:
         - Description 1.
         - Description 2.
